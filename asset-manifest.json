@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GunaSekharReddy-Crypto/static/css/main.df3c26e6.chunk.css",
+    "main.js": "/GunaSekharReddy-Crypto/static/js/main.bde63acc.chunk.js",
+    "main.js.map": "/GunaSekharReddy-Crypto/static/js/main.bde63acc.chunk.js.map",
+    "runtime-main.js": "/GunaSekharReddy-Crypto/static/js/runtime-main.dfcc4586.js",
+    "runtime-main.js.map": "/GunaSekharReddy-Crypto/static/js/runtime-main.dfcc4586.js.map",
+    "static/js/2.dbed65be.chunk.js": "/GunaSekharReddy-Crypto/static/js/2.dbed65be.chunk.js",
+    "static/js/2.dbed65be.chunk.js.map": "/GunaSekharReddy-Crypto/static/js/2.dbed65be.chunk.js.map",
+    "index.html": "/GunaSekharReddy-Crypto/index.html",
+    "static/css/main.df3c26e6.chunk.css.map": "/GunaSekharReddy-Crypto/static/css/main.df3c26e6.chunk.css.map",
+    "static/js/2.dbed65be.chunk.js.LICENSE.txt": "/GunaSekharReddy-Crypto/static/js/2.dbed65be.chunk.js.LICENSE.txt",
+    "static/media/cryptobckg2.1786262f.jpg": "/GunaSekharReddy-Crypto/static/media/cryptobckg2.1786262f.jpg",
+    "static/media/refresh.2393f92f.png": "/GunaSekharReddy-Crypto/static/media/refresh.2393f92f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfcc4586.js",
+    "static/js/2.dbed65be.chunk.js",
+    "static/css/main.df3c26e6.chunk.css",
+    "static/js/main.bde63acc.chunk.js"
+  ]
+}
